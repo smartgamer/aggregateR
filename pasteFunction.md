@@ -1,5 +1,6 @@
+http://www.datasciencemadesimple.com/paste-function-in-r/
 
-#Paste Function in R----
+# Paste Function in R
 Paste function in R is used to concatenate Vectors by converting them into character. paste0 function in R simply concatenates the vector with space separator. lets see an example of paste() Function in R and Paste0() Function in R
 
 Syntax for Paste Function in R
